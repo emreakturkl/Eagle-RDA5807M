@@ -14,4 +14,4 @@ Eagle Library for the RDA5807M
 
 #
 
-http://emreakturkl.github.io
+https://emreakturkl.github.io
