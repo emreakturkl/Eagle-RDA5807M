@@ -1,4 +1,4 @@
-# RDA5807M FM Radio Tuner
+# RDA5807M FM Radio Tuner Module
 
 Eagle Library for the RDA5807M
 
