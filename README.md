@@ -1,6 +1,6 @@
 # RDA5807M FM Radio Tuner Module
 
-Eagle Library for the RDA5807M
+Symbol and Footprint RDA5807M
 
 <img src="img/ss.png" alt="RDA5807M Eagle Library">
 
@@ -17,5 +17,3 @@ Module: RRD-102
 <img src="img/dimension.png" alt="RDA5807M Physical Dimension">
 
 #
-
-https://emreakturkl.github.io
